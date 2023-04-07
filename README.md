@@ -1,2 +1,2 @@
 # Simple-List-Maker
-A simple list maker that can be used to make multiple lists with their individual names
+You can make multiple lists using this, quite simple but works just find but it's not going to upload it to any database
