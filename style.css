@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: teal;
+}
+
+h4, li{
+    background-color: aquamarine;
+}
+
+.primaryListMaker{
+    text-align: center;
+}
+
+#lists{
+    display: flex;
+    align-items: flex-start;
+}
+
+.individualList{
+    margin: 20px;
+    background-color: coral;
+    text-align: center;
+    margin-top: 0;
+}
