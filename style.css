@@ -1,10 +1,10 @@
 h1{
     text-align: center;
-    color: teal;
+    color: #19A7CE;
 }
 
 h4, li{
-    background-color: aquamarine;
+    background-color: aliceblue;
 }
 
 .primaryListMaker{
@@ -18,7 +18,15 @@ h4, li{
 
 .individualList{
     margin: 20px;
-    background-color: coral;
+    background-color: aliceblue;
+    color: #19A7CE;
     text-align: center;
-    margin-top: 0;
+    /*! margin-top: 0; */
+    padding: 5px;
+    width: 15%;
 }
+
+.listUL {
+    padding-left: 20px;
+
+  }
