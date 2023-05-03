@@ -5,6 +5,7 @@ h1{
 
 h4, li{
     background-color: aliceblue;
+    overflow-wrap: break-word;
 }
 
 .primaryListMaker{
